@@ -1,0 +1,50 @@
+.container{
+    padding-top: 0px;
+}
+#message{
+    text-align: center;
+}
+.button{
+    text-align: center;
+}
+.nav-wrapper{
+    background-color: #2196F3;
+    
+}
+nav.top-nav {
+    height: 122px;
+    box-shadow: none;
+}
+
+nav.top-nav a.page-title {
+    line-height: 122px;
+    font-size: 48px;
+}
+body{
+    background-color: #ECEFF1;
+}
+.myForm{
+    
+}
+.myLabel{
+	font-size: 1em;
+	vertical-align: middle;
+}
+.header{
+	font-size: 2em;
+}
+.center{
+	text-align: center;
+}
+.colWidth{
+	width: 150%;
+}
+.marginRight{
+	margin-right: 2em;
+}
+.marginLeft{
+	margin-left: 0.5em;
+}
+a.bold{
+    font-size: 22px;
+}
